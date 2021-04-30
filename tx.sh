@@ -12,7 +12,7 @@ magnet(){
 
 ban(){
 	figlet Torrent X;
-	echo "\033[0;32mBy SAMHAX"
+	echo "\033[0;32mBy SAMHAX\033[0m"
 	echo '-------------------------------------------'
 }
 
